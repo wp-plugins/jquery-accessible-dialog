@@ -6,13 +6,13 @@
 .ui-checkbox .ui-checkbox-box { position: absolute; top: 0; left: 0; width: 1.5em; height: 1.6em; }
 
 
-.high-contrast .ui-checkbox .ui-checkbox-inputwrapper { width: auto; height: auto; overflow: auto; display: inline;}
+.ui-helper-highcontrast .ui-checkbox .ui-checkbox-inputwrapper { width: auto; height: auto; overflow: auto; display: inline;}
 
-.high-contrast .ui-checkbox-box {
+.ui-helper-highcontrast .ui-checkbox-box {
     display: none;
 }
 
-.high-contrast .ui-checkbox label {
+.ui-helper-highcontrast .ui-checkbox label {
     display: inline;
     padding-left: 0.5em;
 }

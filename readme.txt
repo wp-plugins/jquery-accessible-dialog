@@ -1,9 +1,9 @@
 === JQuery Accessible Dialog ===
-Contributors: Theofanis Oikonomou, Kontotasiou Dionysia
+Contributors: Kontotasiou Dionysia
 Tags: accessible, WAI, ARIA, jquery, widgets
 Requires at least: 3.0.1
-Tested up to: 3.2.1
-Stable tag: 2.0
+Tested up to: 3.3.2
+Stable tag: 3.0
 
 JQuery Accessible Dialog is a WAI-ARIA Enabled Dialog Plugin for Wordpress
 
@@ -42,3 +42,5 @@ This work was supported by the [Informatics and Telematics Institute](http://www
 * initial release
 = 2.0 =
 * Version 2.0
+= 3.0 =
+* Version 3.0
